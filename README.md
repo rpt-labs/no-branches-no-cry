@@ -13,3 +13,7 @@ Navigate with `cd` into the folder, and use `pwd | pbcopy`.
 Now you can paste the exact path!
 
 ### Rejoice! Your fingers are about 357 keystrokes younger than they would have been! 
+
+Oh yeah... you still have to push your new branches back up to github.
+Do that with:
+`git push --all`
