@@ -1,4 +1,8 @@
+When you open up that SA or TA repo and realize it doesn't have student branches added...
+
 # No branches? No cry!
+
+Instead of cursing, start conjuring! Magic at your fingertips!
 
 ## Just edit `branches.txt` with the branch names. One per line.
 
